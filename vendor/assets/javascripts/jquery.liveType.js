@@ -1,5 +1,5 @@
 /*!
- * jQuery LiveType 0.2.pre
+ * jQuery LiveType 0.2.0
  *
  * Copyright 2013, Tobal San (http://www.smartrock.fr)
  * Licensed under the MIT license.
